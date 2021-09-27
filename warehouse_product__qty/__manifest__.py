@@ -2,7 +2,7 @@
     "name": "Product Warehouse Quantity Kanban",
     "summary": """Kanban view to see product warehouse quantity""",
     'sequence': -100,
-    "version": "14.0.0.0.1",
+    "version": "14.0.0.0.2",
     'category': 'Warehouse',
     "license": "LGPL-3",
     "author": "Zoldyck-Tech,Gunalan D",
